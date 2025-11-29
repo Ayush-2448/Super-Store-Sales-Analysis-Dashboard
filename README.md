@@ -34,19 +34,6 @@ The analysis supports **data-driven decision-making** by highlighting high-value
 | **DAX** | Calculated measures & KPIs |
 | **Excel** | Exploratory analysis |
 
----
-
-## 📁 Project Structure
-
-📦 Super-Store-Sales-Analysis
-┣ 📂 dataset
-┃ ┗ SuperStore.xlsx
-┣ 📂 reports
-┃ ┗ dashboard_screenshots/
-┣ 📄 SuperStore.pbix
-┣ 📄 README.md
-┗ 📄 LICENSE
-
 ## Key Insights
 
 - ✔ Identified **top-performing categories** and **loss-making subcategories**  
