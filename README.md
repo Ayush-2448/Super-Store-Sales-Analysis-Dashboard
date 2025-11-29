@@ -52,22 +52,17 @@ Launch SuperStore.pbix using Power BI Desktop.
 Explore the dashboards
 Navigate through pages to view KPIs, charts, filters, and insights.
 
-🧠 What I Learned
+**What I Learned**
+
 ETL using Power Query
-
 Data modeling & relationship management
-
 Creating meaningful DAX measures
-
 Building multi-page dashboards
-
 Presenting insights in a visually effective manner
 
 **Future Improvements**
-Add forecasting using DAX / Power BI AI visuals
-
+Add forecasting using Power BI AI visuals
 Include advanced customer segmentation
-
 Automate data refresh using Power BI Service
 
 **Author**
